@@ -1,0 +1,10 @@
+.select_box {
+    background-color: aqua;
+}
+
+@media only screen and (max-width: 1000px) {
+    .select_box {
+        background-color: blue;
+        size: 3;
+    }   
+}
